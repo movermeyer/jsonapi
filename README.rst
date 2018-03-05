@@ -9,23 +9,23 @@ JSON-API
     :target: https://coveralls.io/r/pavlov99/jsonapi
     :alt: Coverage Status
 
-.. image:: https://pypip.in/v/jsonapi/badge.png
+.. image:: https://img.shields.io/pypi/v/jsonapi.svg
     :target: https://crate.io/packages/jsonapi
     :alt: Version
 
-.. image:: https://pypip.in/download/jsonapi/badge.svg
+.. image:: https://img.shields.io/pypi/dm/jsonapi.svg
     :target: https://pypi.python.org/pypi/jsonapi/
     :alt: Downloads
 
-.. image:: https://pypip.in/format/jsonapi/badge.png
+.. image:: https://img.shields.io/pypi/format/jsonapi.svg
     :target: https://pypi.python.org/pypi/jsonapi/
     :alt: Download format
 
-.. image:: https://pypip.in/license/jsonapi/badge.png
+.. image:: https://img.shields.io/pypi/l/jsonapi.svg
     :target: https://pypi.python.org/pypi/jsonapi/
     :alt: License
 
-.. image:: https://pypip.in/status/jsonapi/badge.svg
+.. image:: https://img.shields.io/pypi/status/jsonapi.svg
     :target: https://pypi.python.org/pypi/jsonapi/
     :alt: Development Status
 
